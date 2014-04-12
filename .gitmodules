@@ -1,0 +1,3 @@
+[submodule "spt"]
+	path = spt
+	url = git://github.com/michcioperz/spt.git
